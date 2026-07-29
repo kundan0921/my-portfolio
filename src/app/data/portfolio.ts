@@ -181,7 +181,7 @@ export const portfolioData = {
       ],
       image: "/projects/portfolio.png",
       github: "https://github.com/kundan0921/My-Portfolio",
-      live: "https://my-portfolio-kundan0921.vercel.app/",
+      live: "https://kundankumar.vercel.app/",
     },
     {
       title: "Nexaimer",
