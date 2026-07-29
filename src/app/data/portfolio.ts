@@ -179,7 +179,7 @@ export const portfolioData = {
         "Framer Motion",
         "Lucide React",
       ],
-      image: "/projects/portfolio.png",
+      image: "/projects/Portfolio.png",
       github: "https://github.com/kundan0921/My-Portfolio",
       live: "https://kundankumar.vercel.app/",
     },
