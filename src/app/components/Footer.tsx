@@ -79,7 +79,7 @@ export default function Footer() {
 
             {/* Email */}
             <a
-              href={`mailto:${portfolioData.email}`}
+              href={`mailto:${portfolioData.personal.email}`}
               aria-label="Email"
               className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 text-gray-500 transition-all duration-300 hover:border-amber-400/40 hover:bg-amber-400 hover:text-black"
             >
