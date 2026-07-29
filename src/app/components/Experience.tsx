@@ -123,12 +123,7 @@ export default function Experience() {
 
                   </div>
 
-                  {/* Type */}
-                  {experience.type && (
-                    <div className="mt-7 inline-flex rounded-full border border-white/10 bg-black px-4 py-2 text-sm text-gray-400">
-                      {experience.type}
-                    </div>
-                  )}
+                  
 
                   {/* Description */}
                   <p className="mt-6 max-w-4xl leading-8 text-gray-400">
