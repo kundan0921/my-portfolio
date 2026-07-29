@@ -192,7 +192,7 @@ export default function Socials() {
 
             {/* Resume */}
             <a
-              href={portfolioData.social.resume}
+              href={portfolioData.personal.resume}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 rounded-full bg-cyan-400 px-6 py-3 font-semibold text-black transition-all duration-300 hover:bg-cyan-300 hover:shadow-lg hover:shadow-cyan-400/20"
