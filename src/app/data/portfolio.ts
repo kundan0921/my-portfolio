@@ -209,6 +209,14 @@ export const portfolioData = {
   
 
   certificates: [
+
+    {
+      title: "Google Cloud Gen AI Academy APAC 2026",
+      organization: "Google Cloud | Hack2Skills",
+      date: "2026",
+      image: "/certificates/Hack2Skills.jpg",
+      link: "/certificates/Hack2Skills.jpg",
+    },
     {
       title: "Data Foundations (CMDB and CSDM) (CIS-DF) certification!",
       organization: "ServiceNow",
