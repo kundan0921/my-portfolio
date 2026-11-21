@@ -228,15 +228,15 @@ export const portfolioData = {
       title: "SOFTWARE ENGINEER",
       organization: " HACKERANK",
       date: "2026",
-      image: "/certificates/software engineer.jpg",
-      link: "/certificates/software engineer.jpg",
+      image: "/certificates/software_engineer certificate.jpg",
+      link: "/certificates/software_engineer certificate.jpg",
     },
     {
       title: "SOFTWARE ENGINEER INTERN",
       organization: " HACKERRANK",
       date: "2026",
-      image: "/certificates/software engineer intern.jpg",
-      link: "/certificates/software engineer intern.jpg",
+      image: "/certificates/software_engineer intern.jpg",
+      link: "/certificates/software_engineer intern.jpg",
     },
 
 
