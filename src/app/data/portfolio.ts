@@ -225,6 +225,22 @@ export const portfolioData = {
       link: "/certificates/ServiceNow.jpg",
     },
     {
+      title: "SOFTWARE ENGINEER",
+      organization: " HACKERANK",
+      date: "2026",
+      image: "/certificates/software engineer.jpg",
+      link: "/certificates/software engineer.jpg",
+    },
+    {
+      title: "SOFTWARE ENGINEER INTERN",
+      organization: " HACKERRANK",
+      date: "2026",
+      image: "/certificates/software engineer intern.jpg",
+      link: "/certificates/software engineer intern.jpg",
+    },
+
+
+    {
       title: "IBM Granite models",
       organization: "IBM SkillsBuild",
       date: "2026",
