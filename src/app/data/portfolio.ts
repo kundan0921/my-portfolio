@@ -235,8 +235,8 @@ export const portfolioData = {
       title: "SOFTWARE ENGINEER INTERN",
       organization: " HACKERRANK",
       date: "2026",
-      image: "/certificates/software_engineer intern.jpg",
-      link: "/certificates/software_engineer intern.jpg",
+      image: "/certificates/software_engineer_intern certificate.jpg",
+      link: "/certificates/software_engineer_intern certificate.jpg",
     },
 
 
